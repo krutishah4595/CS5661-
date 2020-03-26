@@ -1,4 +1,4 @@
-# CS5661- 
+# CS5661
 The dataset contains house rental prices for New York
 City. It includes home rented in the past years. We will use different algorithm to predict the price
 

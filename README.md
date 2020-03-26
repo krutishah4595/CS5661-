@@ -8,6 +8,6 @@ Column: 96
 
 Size: 161MB
 
-• Dataset Link: https://www.kaggle.com/peterzhou/airbnb-open-data-in-nyc
+Dataset Link: https://www.kaggle.com/peterzhou/airbnb-open-data-in-nyc
 
 listings.csv Detailed listing data, including various attributes( of each listing such as number of bedrooms, bathrooms,location etc.
